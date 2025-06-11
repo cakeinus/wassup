@@ -1,2 +1,2 @@
 # wassup
-KDT) EST AI 서비스기획 1기
+EST AI 1기
